@@ -2,6 +2,7 @@
 
 ## About Me
 
+🌟 A pre-final year Computer Science student at VIT Bhopal University.
 🌟 I'm passionate about coding and technology, exploring the vast world of software development.
 
 🌐 Currently diving into the MERN (MongoDB, Express, React, Node.js) stack to craft web applications.
