@@ -17,6 +17,4 @@
 
 - 📧 Email: [stuti105sharma@gmail.com](mailto:stuti105sharma@gmail.com)
 - 🌐 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/stuti-s-67875a242/)
-- 💻 Personal Website: (Coming soon!)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+- 💻 Personal Website: (soon!)
