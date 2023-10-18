@@ -19,4 +19,3 @@
 - 🌐 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/stuti-s-67875a242/)
 - 💻 Personal Website: (Coming soon!)
 
-(https://github-readme-stats.vercel.app/api?username=stutxi)](https://github.com/stutxi/github-readme-stats)
