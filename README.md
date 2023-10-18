@@ -1,4 +1,4 @@
-### Hi, I am Stuti Sharma! 👋
+### Hi, I am Stuti Sharma! (she/her) 👋
 
 ## About Me
 
