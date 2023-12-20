@@ -10,7 +10,7 @@
 
 💡 I'm expanding my skills further:
 - Excited to dive into Go (Golang) and sharpen my skills. Golang's simplicity and performance have always intrigued me.
-- Machine Learning and Flutter are on my learning horizon.
+- Machine Learning and App Development are on my learning horizon.
 
 - ♟️ In my spare time, I enjoy a good game of chess and occasionally dive into a good book. Music is my go-to for relaxation.
 
