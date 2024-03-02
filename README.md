@@ -20,4 +20,12 @@
 - 🌐 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/stuti-s-67875a242/)
 - 💻 Personal Website: (soon!)
 
-![stutxi's Stats](https://github-readme-stats.vercel.app/api?username=stutxi&theme=dark&show_icons=true&hide_border=false&count_private=true&layout=compact) ![stutxi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stutxi&theme=dark&hide_border=false&layout=compact) ![stutxi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stutxi&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<div style="width: 300px">
+  ![stutxi's Stats](https://github-readme-stats.vercel.app/api?username=stutxi&theme=dark&show_icons=true&hide_border=false&count_private=true&layout=compact)
+</div>
+<div style="width: 300px">
+  ![stutxi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=stutxi&theme=dark&hide_border=false&layout=compact)
+</div>
+<div style="width: 300px">
+  ![stutxi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stutxi&theme=dark&show_icons=true&hide_border=false&layout=compact)
+</div>
