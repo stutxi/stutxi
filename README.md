@@ -2,7 +2,7 @@
 
 ## About Me
 
-🌟 I'm a pre-final year Computer Science student at VIT Bhopal University, passionate about coding and technology, and exploring the vast world of software development.
+🌟 I'm a final year Computer Science student at VIT Bhopal University, passionate about coding and technology, and exploring the vast world of software development.
 
 🌐 Currently diving into the MERN stack to craft web applications.
 
