@@ -4,11 +4,12 @@
 
 🌟 I'm a final year Computer Science student at VIT Bhopal University, passionate about coding and technology, and exploring the vast world of software development.
 
-🌐 Currently diving into the MERN stack to craft web applications.
+🌐 Currently enhancing my skills with the MERN stack for building web applications. While I have some experience, I’m actively improving and mastering it.
 
 🛠️ Proficient in C++, with some experience in Java and Python.
 
 💡 I'm expanding my skills further:
+- Learning about blockchain technology and its applications.
 - Excited to dive into Go (Golang) and sharpen my skills. Golang's simplicity and performance have always intrigued me.
 - Machine Learning and App Development are on my learning horizon.
 
