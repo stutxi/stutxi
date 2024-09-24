@@ -19,8 +19,6 @@
 
 - 📧 Email: [stuti105sharma@gmail.com](mailto:stuti105sharma@gmail.com)
 - 🌐 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/stuti-s-67875a242/)
-- 💻 Personal Website: (soon!!)
-
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stutxi&theme=dark&hide_border=true)<br/>
