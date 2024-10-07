@@ -1,9 +1,5 @@
 ### Hi, I am Stuti Sharma! (she/her) 👋
 
-## About Me
-
-🌟 I'm a final year Computer Science student at VIT Bhopal University, passionate about coding and technology, and exploring the vast world of software development.
-
 🌐 Currently enhancing my skills with the MERN stack for building web applications. While I have some experience, I’m actively improving and mastering it.
 
 🛠️ Proficient in C++, with some experience in Java and Python.
