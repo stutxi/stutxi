@@ -6,8 +6,8 @@
 
 💡 I'm expanding my skills further:
 - Learning about blockchain technology and its applications.
-- Excited to dive into Go (Golang) and sharpen my skills. Golang's simplicity and performance have always intrigued me.
-- Machine Learning and App Development are on my learning horizon.
+- Keen to explore Go (Golang) further and improve my skills, as I find its simplicity and performance truly fascinating.
+- Machine Learning is my learning horizon.
 
 - ♟️ In my spare time, I enjoy a good game of chess and occasionally dive into a good book. Music is my go-to for relaxation.
 
@@ -19,3 +19,6 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stutxi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stutxi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+🐙  I used to push my GFG and Leetcode submissions here, but I stopped as it felt unnecessary and stupid. Currently, I'm diving more into open source, actively contributing to Hacktoberfest, and improving my DSA skills along the way.
