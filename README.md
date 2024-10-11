@@ -21,4 +21,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stutxi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-🐙  I used to push my GFG and Leetcode submissions here, but I stopped as it felt unnecessary and stupid. Currently, I'm diving more into open source, actively contributing to Hacktoberfest, and improving my DSA skills along the way.
+🐙 I used to push my GFG and Leetcode submissions here, but I stopped as it felt unnecessary and stupid. Currently, I'm diving more into open source, actively contributing to Hacktoberfest, and improving my DSA skills along the way.
