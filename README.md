@@ -18,7 +18,10 @@
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stutxi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stutxi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=stutxi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stutxi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 
 🐙 I used to push my GFG and Leetcode submissions here, but I stopped as it felt unnecessary and stupid. Currently, I'm diving more into open source, actively contributing to Hacktoberfest, and improving my DSA skills along the way.
