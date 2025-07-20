@@ -1,4 +1,4 @@
-Hi, I'm a 2025 Computer Science graduate.  
+👋 Hi, I'm a 2025 Computer Science graduate.  
 I’ve mostly worked around web dev using the MERN stack and feel comfortable with JavaScript. For problem solving and DSA, I mostly use C++. I’ve also used Java and Python here and there, and I’m currently exploring Web3.  
 Machine learning is something that's on my learning horizon.
 
