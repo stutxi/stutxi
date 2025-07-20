@@ -1,17 +1,34 @@
-### Hi, I am Stuti Sharma! (she/her) 👋
+Hi, I'm a 2025 Computer Science graduate.  
+I’ve mostly worked around web dev using the MERN stack and feel comfortable with JavaScript. For problem solving and DSA, I mostly use C++. I’ve also used Java and Python here and there, and I’m currently exploring Web3.  
+Machine learning is something that's on my learning horizon.
 
-🌐 Currently enhancing my skills with the MERN stack for building web applications. While I have some experience, I’m actively improving and mastering it.
+Not someone super serious — just someone who enjoys learning and figuring things out along the way. I like solving, and I love debugging and fixing things.
 
-🛠️ Proficient in C++, with some experience in Java and Python.
+Outside tech, I’m usually playing or watching chess, occasionally reading, or vibing to music.
 
-💡 I'm expanding my skills further:
-- Learning about blockchain technology and its applications.
-- Keen to explore Go (Golang) further and improve my skills, as I find its simplicity and performance truly fascinating.
-- Machine Learning is on my learning horizon.
+Feel free to reach out or connect ✨
+<p align="left">
+  <a href="mailto:stuti105sharma@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="24" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/stutxi/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" width="24" />
+  </a>
+  &nbsp;
+  <a href="https://www.chess.com/member/stxxbgy" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=C5LTcmsc3cr0&format=png&color=000000" alt="Chess" width="24" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/b5e8g4ytebsrysokf4b74xdoe?si=038388d7133d4e06" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=G9XXzb9XaEKX&format=png&color=000000" alt="Spotify" width="24" />
+  </a>
+  &nbsp;
+  <a href="https://discordapp.com/users/stutxi" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="Discord" width="24" />
+  </a>
+</p>
 
-- ♟️ In my spare time, I enjoy a good game of chess and occasionally dive into a good book. Music is my go-to for relaxation.
 
-## Connect with Me
-- 📧 Email: [stuti105sharma@gmail.com](mailto:stuti105sharma@gmail.com)
-- 🌐 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/stuti-s-67875a242/)
+
 
